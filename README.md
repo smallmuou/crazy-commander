@@ -11,6 +11,7 @@ python -m SimpleHTTPServer :port:
 
 * 一键启动HTTP上传服务
 
-```language
-code
+```bash
+curl http://tmp.qn.v-ju.com.cn/uploader|python
 ```
+
